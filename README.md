@@ -1,6 +1,6 @@
 # Alan Abraham - ePortfolio
 
-Welcome to my professional ePortfolio. This was developed as the capstone for my BSc Computer Science at Southern New Hampshire University. My focus is on high-performance systems engineering, bare-metal game engine architecture, and robust application development.
+Welcome to my professional ePortfolio. This was developed as part of the capstone project for my Bachelors in Computer Science at Southern New Hampshire University. My focus is on high-performance systems engineering, bare-metal game engine architecture, and robust application development.
 
 ## Professional Self-Assessment
 
